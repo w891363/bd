@@ -38,6 +38,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="江苏移动",CCTV8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="江苏移动",CCTV8K
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="江苏移动",CETV1
 http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8#http://web.7u.org:9000/rtp/239.49.8.115:8000
 #EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="江苏移动",CETV2
